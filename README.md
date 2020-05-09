@@ -16,12 +16,7 @@ Sample Output
 Hello, World. 
 Welcome to 30 Days of Code!
 
---Solution for Java--
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+
 public class HelloWorld {
     public static void main(String[] args) {
         // Create a Scanner object to read input from stdin.
