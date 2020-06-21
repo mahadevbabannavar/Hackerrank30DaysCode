@@ -14,7 +14,7 @@ A single line of text denoting inputString (the variable whose contents must be 
 
 Sample Output
 Hello, World. 
-Welcome to 30 Days of Code!
+Welcome to 30 Days of Code! Test
 
 
 public class HelloWorld {
